@@ -3,8 +3,6 @@
 ## 👩‍💻 Developed by
 **Shaziya Shaikh**
 
----
-
 ## 📌 Project Description
 This project is a **GUI-based Plagiarism Checker** developed using **Python and Tkinter**.  
 It allows users to select text files from **two different folders** and calculate plagiarism
@@ -12,8 +10,6 @@ using **TF-IDF Vectorization** and **Cosine Similarity**.
 
 The application is designed for **academic use**, helping to compare assignments,
 documents, or reports for similarity.
-
----
 
 ## ✨ Features
 - Select **multiple folders**
@@ -27,8 +23,6 @@ documents, or reports for similarity.
 - Export results to **CSV file**
 - User-friendly **Tkinter GUI**
 
----
-
 ## 🛠️ Technologies Used
 - Python 3
 - Tkinter (GUI)
@@ -36,10 +30,10 @@ documents, or reports for similarity.
 - TF-IDF Vectorizer
 - Cosine Similarity
 
----
-
 ## ▶️ How to Run the Project
+Install Python
+Install scikit-learn using pip install scikit-learn
+Run the application using python app.py
 
-1. Install required library:
-   ```bash
-   pip install scikit-learn
+Screenshots
+<div align="center"> <img src="./plagiarism-ui.png" width="800"/> </div>
