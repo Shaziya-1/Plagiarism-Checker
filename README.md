@@ -35,5 +35,5 @@ Install Python
 Install scikit-learn using pip install scikit-learn
 Run the application using python app.py
 
-Screenshots
-<div align="center"> <img src="./plagiarism-ui.png" width="800"/> </div>
+//Screenshots
+<img src="https://raw.githubusercontent.com/USERNAME/REPO-NAME/main/images/plagiarism-ui.png" width="800">
